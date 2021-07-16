@@ -16,7 +16,7 @@ function Header() {
             </Button>
             <Icon name="description" size="5xl" color="blue" />
             <h1 className="ml-2 text-gray-700 text-2xl">
-                Docs Google Beta
+                Docs Google Clone
             </h1>
         </div>
     );
